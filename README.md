@@ -3,6 +3,7 @@
 ![Nuget](https://img.shields.io/nuget/dt/LucasLizama.Rut?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/lucaslizama/rut?style=for-the-badge)
 [![Donate](https://img.shields.io/badge/Donate-Paypal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate?business=PYWFG2U5KRY2N&no_recurring=0&item_name=Develop+and+maintain+quality%2C+free+and+open+source+software&currency_code=USD)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/lucaslizam6)
 
 ## Table of Contents
 
